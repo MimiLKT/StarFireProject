@@ -54,7 +54,8 @@ body {
     margin-bottom: 20px;
   }
   a {
-      color: #fdfdfd;
+    color: #fdfdfd;
+    text-decoration:none
   }
    section {
     margin-top: 5%;
