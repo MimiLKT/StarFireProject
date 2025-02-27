@@ -87,7 +87,4 @@ body {
     transform: scale(1.1);
     box-shadow: 0 0 15px 3px rgba(255, 255, 255, 0.6);
   }
-  footer {
-    background: rgba(20, 20, 20, 0.8);
-    font-size: 0.9rem;
-}
+  
